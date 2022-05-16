@@ -1,5 +1,5 @@
 #Create a variable for the movie (choose any movie you like)
-movie:bool= True
+movie:str= "Me before you"
 
 #Create a variable of type int to hold the rating of the movie out of 5 . Give this movie 3
 rating_of_the_movie:int = 3
